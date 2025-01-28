@@ -15,7 +15,7 @@ puts 5 * 2
 puts 5 / 2
 
 # Integers vs Floats
-puts 5.0 / 2
+puts 5.0 / 2#
 
 # Order of operations
 puts (2 + 5) * 5
